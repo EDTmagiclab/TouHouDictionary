@@ -1,4 +1,4 @@
-# TouHouDictionary
+# 东方神行笔~Dictionary For TouHou Project
 
 为输入车万角色的名字里的生僻字发愁？翻了半天找不到名字里的那个字？铃抄千警告？欢迎使用车万词库！
 
